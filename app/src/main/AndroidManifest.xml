@@ -19,11 +19,8 @@
             </intent-filter>
         </activity>
         <activity
-
             android:name="com.vk.sdk.VKServiceActivity"
-
             android:label="ServiceActivity"
-
             android:theme="@style/VK.Transparent" />
     </application>
 
